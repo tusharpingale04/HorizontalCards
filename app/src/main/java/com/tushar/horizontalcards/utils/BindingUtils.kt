@@ -8,6 +8,7 @@ import android.widget.ImageView
 import androidx.annotation.ColorInt
 import androidx.databinding.BindingAdapter
 import coil.api.load
+import coil.size.Scale
 import com.tushar.horizontalcards.AppController
 import com.tushar.horizontalcards.R
 
@@ -27,7 +28,7 @@ fun setImageDrawable(view: ImageView, color: String) {
 
     val primaryCircle = layerDrawable.findDrawableByLayerId(R.id.primaryCircle) as GradientDrawable
     primaryCircle.orientation = GradientDrawable.Orientation.RIGHT_LEFT
-    primaryCircle.colors = intArrayOf(Color.parseColor("#${color}"), android.R.color.transparent)
+    primaryCircle.colors = intArrayOf(Color.parseColor("#${color}"), darkenColor(Color.parseColor("#${color}"), 0.2f))
 
     val secondaryCircle = layerDrawable.findDrawableByLayerId(R.id.SecondaryCircle) as GradientDrawable
     secondaryCircle.orientation = GradientDrawable.Orientation.RIGHT_LEFT
@@ -44,7 +45,7 @@ fun setImageDrawable(view: ImageView, color: String) {
     ld.setLayerHeight(0, height)
 
     ld.setLayerInset(1, (-width / 5.4).dp2px, 0, (width / 21.6).dp2px, 0)
-    ld.setLayerInset(2, (width / 7.2).dp2px, 0, (-width / 21.6).dp2px, (-height / 68.3).dp2px)
+    ld.setLayerInset(2, (width / 7.2).dp2px, 50.dp2px, (-width / 21.6).dp2px, (-height / 68.3).dp2px)
 
     view.setImageDrawable(ld)
 }
@@ -62,6 +63,7 @@ fun loadImage(imageView: ImageView,url: String?) {
     url?.let {
         imageView.load("https://${it.substring(2,it.length)}") {
             error(R.drawable.ic_broken_image)
+            scale(Scale.FILL)
         }
     } ?: imageView.setImageResource(R.drawable.ic_broken_image)
 }

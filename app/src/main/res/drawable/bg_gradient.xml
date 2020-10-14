@@ -3,7 +3,6 @@
 
     <item android:id="@+id/main_bg">
         <shape android:shape="rectangle">
-            <gradient android:angle="180" />
 
         </shape>
     </item>
@@ -15,10 +14,6 @@
             android:shape="ring"
             android:thicknessRatio="2"
             android:useLevel="false">
-
-            <gradient
-                android:angle="180"
-                android:type="linear" />
 
         </shape>
     </item>

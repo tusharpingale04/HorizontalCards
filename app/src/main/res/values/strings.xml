@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HorizontalCards</string>
+    <string name="position">position</string>
+    <string name="error_network_timeout">Network Timeout</string>
+    <string name="error_no_connection">Please check your Internet Connection</string>
+    <string name="error_server">Something Went Wrong! Please Try Again Later</string>
+    <string name="retry">Retry</string>
+    <string name="loading_please_wait">Loading…Please wait…</string>
+</resources>

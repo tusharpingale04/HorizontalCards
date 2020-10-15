@@ -1,0 +1,2498 @@
+{
+  "success": true,
+  "data": {
+    "classes": [
+      {
+        "_id": "5f50ad0b1fef46d1b20e02cf",
+        "orgId": "",
+        "course": {
+          "name": "",
+          "id": ""
+        },
+        "specificExams": [
+          {
+            "name": "Railways RRB NTPC",
+            "id": "56d6f29b995a2d45a8735c11"
+          }
+        ],
+        "courses": [
+          {
+            "name": "Railways",
+            "id": "569c9730995a2d097081cf8a"
+          }
+        ],
+        "title": "",
+        "description": "",
+        "titles": "RRB NTPC Live Coaching 3.0",
+        "descriptions": null,
+        "shortDesc": null,
+        "coachingName": "",
+        "type": "",
+        "isClassCombo": false,
+        "items": null,
+        "oldCost": 7999,
+        "minCost": 0,
+        "cost": 299,
+        "costUpfront": true,
+        "freeProdId": "",
+        "weight": 100160,
+        "releaseDate": "2020-09-03T12:30:00Z",
+        "availTill": "2021-09-30T18:29:59Z",
+        "offerStart": "0001-01-01T00:00:00Z",
+        "offerEnd": "0001-01-01T00:00:00Z",
+        "lastFreezedOn": "0001-01-01T00:00:00Z",
+        "createdby": "",
+        "createdOn": "0001-01-01T00:00:00Z",
+        "stage": "",
+        "category": "",
+        "features": null,
+        "extraFeatures": null,
+        "recommendedFor": "",
+        "discountText": "",
+        "isRecommended": false,
+        "quantity": -1,
+        "numPurchased": 7340,
+        "minPrice": 0,
+        "isCustom": false,
+        "showSyllabus": false,
+        "slugUrl": "",
+        "freeTestCount": 0,
+        "isHidden": false,
+        "courseLogo": "//cdn.testbook.com/products/2020/September/15/__w-200-400-600__/RRB%20NTPC%20Live%20Coaching%203.0_Course%20Card.jpg.jpeg",
+        "classProperties": {
+          "subjects": [],
+          "classType": {
+            "type": "Live Class",
+            "classFrom": "2020-09-22T18:30:00Z",
+            "classTill": "2020-11-30T18:29:59Z",
+            "lastEnrollmentDate": "2020-10-15T18:29:59Z"
+          },
+          "instructors": [
+            {
+              "id": "5e4e5f36f60d5d2ac569d060",
+              "name": "Parvind Agarwal",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f3a88c4f899190d0f343b27",
+              "name": "Rahul Tiwari",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5d4aa595fdb8bb4cf6d682ec",
+              "name": "Pankaj Chaubey",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f59b12f1a085c6f609536bf",
+              "name": "Abhimanyu",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f59b1c8074b4978ddd4e8b2",
+              "name": "Rishabh Pandey",
+              "shortBio": "",
+              "fullBio": ""
+            }
+          ],
+          "privateDiscussionUrl": "",
+          "languageInfo": "Hindi & English",
+          "materialLangInfo": "Hindi & English",
+          "languagesInfo": "Hindi & English",
+          "seatsAvailsInfo": "",
+          "showLiveCourseTag": true,
+          "color": "5F6C8F",
+          "curriculum": {
+            "id": "5f6af4ca4590be042bf2bc6e",
+            "name": "",
+            "title": null,
+            "url": null
+          },
+          "contentDuration": 300,
+          "slug": {
+            "prefix": "rrb-ntpc",
+            "suffix": "live"
+          },
+          "isCoachNotAvailable": true
+        },
+        "classInfo": {
+          "introVideoUrl": "https://www.youtube.com/watch?v=LrwVm-wdsPI",
+          "courseSellingImage": "//cdn.testbook.com/images/production/RRB-NTPC-Live-Coaching-3.0_Course-Card_product_courseSelling_all_1599122741.jpg",
+          "facultiesImage": "//cdn.testbook.com/images/production/472-X-200-faculty-final%20%282%29_product_facultiesImage_all_1599122759.png",
+          "subjectWiseSyllabus": {
+            "text": "What Will Be Covered?",
+            "comments": [
+              "<ul style=\"margin-bottom: 0px;\">\n\t<li dir=\"ltr\" style=\"list-style-type: disc;    background- font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;\">\n\t<p dir=\"ltr\" role=\"presentation\" style=\"line-height:1.9871999999999999;background-margin-top:0pt;margin-bottom:8pt;padding:0pt 0pt 8pt 0pt;\"><strong><span id=\"docs-internal-guid-01c405d5-7fff-929a-0742-26d146183708\" style=\"\"><span style=\" background- font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Quantitative Aptitude:</span></span></strong></p>\n\t</li>\n</ul>\n\n<p dir=\"ltr\" style=\"line-height:1.9871999999999999;text-align: justify;background-margin-top:0pt;margin-bottom:8pt;padding:0pt 0pt 8pt 0pt;\"><span id=\"docs-internal-guid-01c405d5-7fff-929a-0742-26d146183708\" style=\"\"><span style=\"   background- font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Number System, Decimals, Fractions, LCM, HCF, Ratio and Proportions, Percentage, Mensuration, Time and Work, Time and Distance, Simple and Compound Interest, Profit and Loss, Elementary Algebra, Geometry and Trigonometry, Elementary Statistics, etc.</span></span></p>\n\n<ul style=\"margin-bottom: 0px;\">\n\t<li dir=\"ltr\" style=\"list-style-type: disc;    background- font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;\">\n\t<p dir=\"ltr\" role=\"presentation\" style=\"line-height:1.9871999999999999;background-margin-top:0pt;margin-bottom:8pt;padding:0pt 0pt 8pt 0pt;\"><strong><span id=\"docs-internal-guid-01c405d5-7fff-929a-0742-26d146183708\" style=\"\"><span style=\" background- font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">General Intelligence &amp; Reasoning:</span></span></strong></p>\n\t</li>\n</ul>\n\n<p dir=\"ltr\" style=\"line-height:1.9871999999999999;text-align: justify;background-margin-top:0pt;margin-bottom:8pt;padding:0pt 0pt 8pt 0pt;\"><span id=\"docs-internal-guid-01c405d5-7fff-929a-0742-26d146183708\" style=\"\"><span style=\"   background- font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Analogies, Completion of Number and Alphabetical Series, Coding and Decoding, Mathematical Operations, Similarities and Differences, Relationships, Analytical Reasoning, Syllogism, Jumbling, Venn Diagrams, Puzzle, Data Sufficiency, Statement- Conclusion, Statement- Courses of Action, Decision Making, Maps, Interpretation of Graphs, etc.</span></span></p>\n\n<ul style=\"margin-bottom: 0px;\">\n\t<li dir=\"ltr\" style=\"list-style-type: disc;    background- font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;\">\n\t<p dir=\"ltr\" role=\"presentation\" style=\"line-height:1.9871999999999999;background-margin-top:0pt;margin-bottom:8pt;padding:0pt 0pt 8pt 0pt;\"><strong><span id=\"docs-internal-guid-01c405d5-7fff-929a-0742-26d146183708\" style=\"\"><span style=\" background- font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">General Awareness:</span></span></strong></p>\n\t</li>\n</ul>\n\n<p dir=\"ltr\" style=\"line-height:1.9871999999999999;text-align: justify;background-margin-top:0pt;margin-bottom:8pt;padding:0pt 0pt 8pt 0pt;\"><span id=\"docs-internal-guid-01c405d5-7fff-929a-0742-26d146183708\" style=\"\"><span style=\"   background- font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Current Events of National and International Importance, Games and Sports, Art and Culture of India, Indian Literature, Monuments and Places of India, General Science and Life Science (up to 10th CBSE), History of India and Freedom Struggle, Physical, Social and Economic Geography of India and World, Indian Polity and Governance- constitution and political system, General Scientific and Technological Developments including Space and Nuclear Program of India, UN and Other important World Organizations, Environmental Issues Concerning India and World at Large, Basics of Computers and Computer Applications, Common Abbreviations, Transport Systems in India, Indian Economy, Famous Personalities of India and World, Flagship Government Programs, Flora and Fauna of India, Important Government and Public Sector Organizations of India etc</span></span></p>\n\n<div style=\"\">&nbsp;</div>\n"
+            ]
+          },
+          "classFeature": {
+            "text": "What will you get?",
+            "features": [
+              {
+                "name": "170+ LIVE Classes",
+                "type": "Live Class",
+                "description": "Fix your concepts in real-time and ask your queries then and there.",
+                "showInSummary": true,
+                "count": 170,
+                "title": "Live Classes"
+              },
+              {
+                "name": "22+ Doubt Classes",
+                "type": "Doubt Class",
+                "description": "Get your doubts resolved bi-weekly by your subject faculty.",
+                "showInSummary": true,
+                "count": 22,
+                "title": "Doubt Class"
+              },
+              {
+                "name": "70+ Tests",
+                "type": "Test",
+                "description": "Test what you have learned with Weekly, Monthly Subject & Full Mock Test.",
+                "showInSummary": true,
+                "count": 70,
+                "title": "Tests"
+              },
+              {
+                "name": "75+ PDF Capsules",
+                "type": "Notes",
+                "description": "Important Capsules & Select Notes in PDF format.",
+                "showInSummary": true,
+                "count": 75,
+                "title": "PDF Notes"
+              },
+              {
+                "name": "7000+ Practice Questions",
+                "type": "Questions",
+                "description": "Practice Sets,Timed quizzes & Tests to help learn, revise & devise a strategy",
+                "showInSummary": true,
+                "count": 7000,
+                "title": "Practise Qs"
+              }
+            ]
+          },
+          "whyTakeThisCourse": {
+            "text": "",
+            "comments": []
+          },
+          "preRequisites": {
+            "text": "",
+            "comments": []
+          },
+          "faqs": [
+            [
+              {
+                "language": "English",
+                "question": "Why should I go for Testbook Select?",
+                "answer": "Testbook Select helps you “get complete coaching at home with live classes, 360° learning and doubt clearing sessions”. The Live Classes will aid you in learning important concepts with tips & tricks by top faculties and will also offer you an opportunity to interact with the faculty during the live classes."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Why should I enroll for the \" RRB NTPC Live Coaching 3.0  \"?",
+                "answer": "“RRB NTPC Live Coaching 3.0 ” is a premium course that gives you the best shot to crack RRB NTPC. This course will help you learn in a focused way and provide you with the most expected questions."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How to purchase the \" RRB NTPC Live Coaching 3.0  \"?",
+                "answer": "Go to  https://testbook.com/u/ntpc2 and click on “Enroll in Course”. If you are a new user, you will have to sign up using your Name, valid Email ID, new password for this account (you can choose anything more than 6 characters) and your valid mobile number. You will now need to select a payment method - Card (Debit or Credit), Netbanking, Mobile Wallet or UPI. Once you make the payment, you will get a confirmation and your course will be added to your account."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the benefit of interactive live classes?",
+                "answer": "As the name suggests, these classes will have the option of interaction between candidates and the faculty. Interactive live classes will have: \n\nLive Chat\nYou can participate in discussions and also get your doubts cleared instantly during the lectures itself.\n\nScreenshots\nSometimes, you do not have time to take down notes well, interactive live classes give an option to save live class notes with a single click.\n\nImportant concepts & Expected questions\nLearn important concepts with tips & tricks and apply them to solve expected and previous year questions to boost your performance for your upcoming exams."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is 360° Learning?",
+                "answer": "A 360 degree approach is required to make sure that you are clear with the concepts, cover the syllabus, have referred previous year papers and so on. So in a nutshell 360° Learning is “in-depth understanding of every topic.”\n\nInteractive Doubt Sessions \nYou can get your doubts cleared from the faculties with the topic-wise Live Doubt Sessions.\n\nPractice Questions\nRevise each day’s topic in the form of questions & answers with the practice questions given after each session.\n\nPDF Study Material\nReceive PDF notes for reading and revising, which you can even save and refer to it later whenever you are revising that particular topic."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How can I access Testbook Select?",
+                "answer": "To access Testbook Select, all you need is a laptop/mobile phone and Internet connection"
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the validity period of Testbook Select?",
+                "answer": "The validity for Testbook Select is the same as for the course which you have opted for."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Testbook Select caters one course or multiple courses?",
+                "answer": "It will be for individual courses only but it offers you access to the full test series. You can buy individual courses in Testbook Select and learn with the best curriculum designed to crack that particular exam."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Where can I access this Course?",
+                "answer": "Once you have made the purchase, you simply need to ensure that you are logged in. If you see a “Log In” in the top right corner, it means you need to sign in with your registered account details. Once you are logged in, click on “Online Coaching” in the side menu. Under ‘My Classes' you will see “ RRB NTPC Live Coaching 3.0 ”. Click on “Go To Course” or “Resume Course”. You can check the top dashboard on the Course Page daily to get access to your upcoming and current classes and modules."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I get tests? Do I have to buy test series separately?",
+                "answer": "This course comes as a complete package so you will have access to our test series in this course. Make sure to attempt tests in addition to this course so you get actual exam experience and you can check your learning also."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "When will classes start?",
+                "answer": "The course starts on 23 September 2020. You will have the course material being released as per schedule/ timetable."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Are these live classes or video classes?Are these live classes or video classes?",
+                "answer": "This course consists of live classes only."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How many activities are scheduled in one day?",
+                "answer": "One or more live classes will be scheduled daily. Additionally, you will have daily practice sets, quizzes, weekly subject tests, monthly tests, full mock tests, and study notes as per schedule."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I don’t complete all the scheduled activities?",
+                "answer": "We encourage you to follow the course schedule and complete all the activities on time. But in case you are unable to do so due to some reason, you will have access to all the course content until the course expires."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I miss a live class?",
+                "answer": "We encourage you to follow the course schedule and attend all the live classes. But in case you are not able to do so for any reason, you will be able to access recordings of these classes on our platform easily for you to watch at your convenience."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can the classes be downloaded?",
+                "answer": "Yes. You will be able to download the classes on Testbook App."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to access all the videos & live classes at once?",
+                "answer": "All course materials will be released according to a course schedule. You need to focus on completing the material available to you."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can I get a module that has not been released yet?",
+                "answer": "The course has been structured by our experts to ensure that you can proceed with a complete understanding of the subject at hand. You need to focus on one thing at a time. The course is scheduled so that you spend time focussing on the current module. You can only access a class or modules from its release date."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to ask doubts? How?",
+                "answer": "Yes, after you have purchased the course, click on “Resume Course” and go to the dashboard. On the right-hand side of the dashboard you will find the “Ask Doubts” button or you can use our doubt & discussion platform inbuilt in our courses. Click on that button and ask experts any doubt you have."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How long will I be able to access the course content?",
+                "answer": "You will be able to access the course content till its expiry i.e. 30-September-2021."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ]
+          ],
+          "testimonials": [
+            {
+              "image": "//cdn.testbook.com/images/production/38_kb-2018_Photo%20-%20Sandeep%20Mohapatra%20%282%29%20%281%29_product_studentImage_all_1599133893.jpg",
+              "name": "Sandeep Mohapatra",
+              "review": "All full mock tests, chapter tests, practice quizzes, tatkal quizzes, and all India live tests helped me to crack the exam.  -  RRB JE CBT - 1 Selected",
+              "rating": 4.5
+            },
+            {
+              "image": "//cdn.testbook.com/images/production/IMG_20190531_200345%20-%20Shubham%20Upadhyay%20%281%29%20%281%29_product_studentImage_all_1599134004.jpg",
+              "name": "Shubham Upadhyay",
+              "review": "It helped me a lot. Questions in the test series were relevant up to 95% in the exam paper. I am very thankful to Testbook, thanks a lot for your support. - RRB ALP Technician Final 2018 Selected.",
+              "rating": 5
+            }
+          ]
+        },
+        "postNote": null,
+        "stopEvents": false,
+        "affiliateAttributionPaused": false,
+        "publishCompleted": false,
+        "isOffer": false,
+        "isDemoModuleAvail": true,
+        "isCuratedTopic": false,
+        "lastUpdatedOn": "0001-01-01T00:00:00Z",
+        "summary": {
+          "rating": {
+            "actual": 4.2148253068933,
+            "value": 4.76444759206799
+          },
+          "module": {
+            "count": {
+              "Doubt Class": 26,
+              "Live Class": 199,
+              "Notes": 137,
+              "Practice": 254,
+              "Quiz": 54,
+              "Test": 37
+            }
+          }
+        },
+        "segId": "",
+        "target": [
+          {
+            "_id": "5e6189da5f66e94f14a21f52",
+            "title": "RRB NTPC",
+            "isPrimary": true
+          }
+        ],
+        "targetSuperGroup": [
+          {
+            "_id": "5e6189e15f66e94f14a21f93",
+            "title": "Railways Exams",
+            "isPrimary": true
+          }
+        ],
+        "thumbnailInfo": {
+          "title": "",
+          "description": "",
+          "url": ""
+        },
+        "isPremium": true,
+        "doubtTag": {
+          "id": "",
+          "name": "",
+          "type": ""
+        }
+      },
+      {
+        "_id": "5f733ce37a97c2cd690e1c13",
+        "orgId": "",
+        "course": {
+          "name": "",
+          "id": ""
+        },
+        "specificExams": [
+          {
+            "name": "Railways RRB NTPC",
+            "id": "56d6f29b995a2d45a8735c11"
+          }
+        ],
+        "courses": [
+          {
+            "name": "Railways",
+            "id": "569c9730995a2d097081cf8a"
+          }
+        ],
+        "title": "",
+        "description": "",
+        "titles": "RRB NTPC Live Coaching 3.0 (English)",
+        "descriptions": null,
+        "shortDesc": null,
+        "coachingName": "",
+        "type": "",
+        "isClassCombo": false,
+        "items": null,
+        "oldCost": 7999,
+        "minCost": 0,
+        "cost": 299,
+        "costUpfront": false,
+        "freeProdId": "",
+        "weight": 100260,
+        "releaseDate": "2020-09-30T02:30:00Z",
+        "availTill": "2020-12-31T18:29:59Z",
+        "offerStart": "0001-01-01T00:00:00Z",
+        "offerEnd": "0001-01-01T00:00:00Z",
+        "lastFreezedOn": "0001-01-01T00:00:00Z",
+        "createdby": "",
+        "createdOn": "0001-01-01T00:00:00Z",
+        "stage": "",
+        "category": "",
+        "features": null,
+        "extraFeatures": null,
+        "recommendedFor": "",
+        "discountText": "",
+        "isRecommended": false,
+        "quantity": -1,
+        "numPurchased": 1194,
+        "minPrice": 0,
+        "isCustom": false,
+        "showSyllabus": false,
+        "slugUrl": "",
+        "freeTestCount": 0,
+        "isHidden": false,
+        "courseLogo": "//cdn.testbook.com/products/2020/September/29/__w-200-400-600__/RRB-NTPC-Live-Coaching-3.0___In-English__Course-Card.jpg.jpeg",
+        "classProperties": {
+          "subjects": [],
+          "classType": {
+            "type": "Live Class",
+            "classFrom": "2020-10-06T02:30:00Z",
+            "classTill": "2020-12-05T18:29:59Z",
+            "lastEnrollmentDate": "2020-10-15T18:29:59Z"
+          },
+          "instructors": [
+            {
+              "id": "5f291a1b714af80d0d42fcaa",
+              "name": "Anirudh Mathur",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f59b1c8074b4978ddd4e8b2",
+              "name": "Rishabh Pandey",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f59b12f1a085c6f609536bf",
+              "name": "Abhimanyu",
+              "shortBio": "",
+              "fullBio": ""
+            }
+          ],
+          "privateDiscussionUrl": "",
+          "languageInfo": "English",
+          "materialLangInfo": "English",
+          "languagesInfo": "English",
+          "seatsAvailsInfo": "",
+          "showLiveCourseTag": true,
+          "color": "597E5D",
+          "curriculum": {
+            "id": "5f76fced125e4141dfe5b802",
+            "name": "",
+            "title": null,
+            "url": null
+          },
+          "contentDuration": 200,
+          "slug": {
+            "prefix": "rrb-ntpc",
+            "suffix": "english-live"
+          },
+          "isCoachNotAvailable": true
+        },
+        "classInfo": {
+          "courseSellingImage": "//cdn.testbook.com/images/production/RRB-NTPC-Live-Coaching-3.0___In-English__Course-Card_product_courseSelling_all_1601387755.jpg",
+          "facultiesImage": "//cdn.testbook.com/images/production/RRB-NTPC-Live-Coaching-3.0___In-English__Course-Card____472-X-200_product_facultiesImage_all_1601387760.png",
+          "subjectWiseSyllabus": {
+            "text": "",
+            "comments": [
+              ""
+            ]
+          },
+          "classFeature": {
+            "text": "",
+            "features": [
+              {
+                "name": "170+ LIVE Classes",
+                "type": "Live Class",
+                "description": "Fix your concepts in real-time and ask your queries then and there.",
+                "showInSummary": true,
+                "count": 170,
+                "title": "Live Classes"
+              },
+              {
+                "name": "22+ Doubt Classes",
+                "type": "Doubt Class",
+                "description": "Get your doubts resolved bi-weekly by your subject faculty",
+                "showInSummary": true,
+                "count": 22,
+                "title": "Doubt Class"
+              },
+              {
+                "name": "70+ Tests",
+                "type": "Test",
+                "description": "Test what you have learned with Weekly, Monthly Subject & Full Mock Test.",
+                "showInSummary": true,
+                "count": 70,
+                "title": "Tests"
+              },
+              {
+                "name": "75+ PDF Capsules",
+                "type": "Notes",
+                "description": "Important Capsules & Select Notes in PDF format.",
+                "showInSummary": true,
+                "count": 75,
+                "title": "PDF Notes"
+              },
+              {
+                "name": "7000+ Practice Questions",
+                "type": "Questions",
+                "description": "Practice Sets,Timed quizzes & Tests to help learn, revise & devise a strategy",
+                "showInSummary": false,
+                "count": 7000,
+                "title": "Practise Qs"
+              }
+            ]
+          },
+          "whyTakeThisCourse": {
+            "text": "",
+            "comments": []
+          },
+          "preRequisites": {
+            "text": "",
+            "comments": []
+          },
+          "faqs": [
+            [
+              {
+                "language": "English",
+                "question": "Why should I go for Testbook Select?",
+                "answer": "Testbook Select helps you “get complete coaching at home with live classes, personal coach, 360° learning and doubt clearing sessions”. The Live Classes will aid you in learning important concepts with tips & tricks by top faculties and will also offer you an opportunity to interact with the faculty during the live classes. \nApart from this, every student opting for Testbook Select will get focused attention from a coach who will personally analyze your progress & prepare a plan for your success."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Why should I enroll for the \" RRB NTPC Live Coaching 3.0 (English)  \"?",
+                "answer": "“RRB NTPC Live Coaching 3.0 (English) ” is a premium course that gives you the best shot to crack RRB NTPC. This course will help you learn in a focused way and provide you with the most expected questions."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How to purchase the \" RRB NTPC Live Coaching 3.0 (English)  \"?",
+                "answer": "Go to https://testbook.com/u/ntpclce and click on “Enroll in Course”. If you are a new user, you will have to sign up using your Name, valid Email ID, new password for this account (you can choose anything more than 6 characters), and your valid mobile number. You will now need to select a payment method - Card (Debit or Credit), Netbanking, Mobile Wallet, or UPI. Once you make the payment, you will get a confirmation and your course will be added to your account."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the benefit of interactive live classes?",
+                "answer": "As the name suggests, these classes will have the option of interaction between candidates and the faculty. Interactive live classes will have: \n\nLive Chat\nYou can participate in discussions and also get your doubts cleared instantly during the lectures itself.\n\nScreenshots\nSometimes, you do not have time to take down notes well, interactive live classes give an option to save live class notes with a single click.\n\nImportant concepts & Expected questions\nLearn important concepts with tips & tricks and apply them to solve expected and previous year questions to boost your performance for your upcoming exams."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is 360° Learning?",
+                "answer": "A 360 degree approach is required to make sure that you are clear with the concepts, cover the syllabus, have referred previous year papers and so on. So in a nutshell 360° Learning is “in-depth understanding of every topic.”\n\nInteractive Doubt Sessions \nYou can get your doubts cleared from the faculties with the topic-wise Live Doubt Sessions.\n\nPractice Questions\nRevise each day’s topic in the form of questions & answers with the practice questions given after each session.\n\nPDF Study Material\nReceive PDF notes for reading and revising, which you can even save and refer to it later whenever you are revising that particular topic."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How can I access Testbook Select?",
+                "answer": "To access Testbook Select, all you need is a laptop/mobile phone and Internet connection"
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the validity period of Testbook Select?",
+                "answer": "The validity for Testbook Select is the same as for the course which you have opted for."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Testbook Select caters one course or multiple courses?",
+                "answer": "It will be for individual courses only but it offers you access to the full test series. You can buy individual courses in Testbook Select and learn with the best curriculum designed to crack that particular exam."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Where can I access this Course?",
+                "answer": "Once you have made the purchase, you simply need to ensure that you are logged in. If you see a “Log In” in the top right corner, it means you need to sign in with your registered account details. Once you are logged in, click on “Online Coaching” in the side menu. Under ‘My Classes' you will see “ RRB NTPC Live Coaching 3.0 (English) ”. Click on “Go To Course” or “Resume Course”. You can check the top dashboard on the Course Page daily to get access to your upcoming and current classes and modules."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I get tests? Do I have to buy test series separately?",
+                "answer": "This course comes as a complete package so you will have access to our test series in this course. Make sure to attempt tests in addition to this course so you get actual exam experience and you can check your learning also."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "When will classes start?",
+                "answer": "The course starts on 06 October 2020. You will have the course material being released as per schedule/ timetable."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Are these live classes or video classes?",
+                "answer": "This course consists of live classes only."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How many activities are scheduled in one day?",
+                "answer": "One or more live classes will be scheduled daily. Additionally, you will have daily practice sets, quizzes, weekly subject tests, monthly tests, full mock tests, and study notes as per schedule."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I don’t complete all the scheduled activities?",
+                "answer": "We encourage you to follow the course schedule and complete all the activities on time. But in case you are unable to do so due to some reason, you will have access to all the course content until the course expires."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I miss a live class?",
+                "answer": "We encourage you to follow the course schedule and attend all the live classes. But in case you are not able to do so for any reason, you will be able to access recordings of these classes on our platform easily for you to watch at your convenience."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can the classes be downloaded?",
+                "answer": "Yes. You will be able to download the classes on Testbook App."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to access all the videos & live classes at once?",
+                "answer": "All course materials will be released according to a course schedule. You need to focus on completing the material available to you."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can I get a module that has not been released yet?",
+                "answer": "The course has been structured by our experts to ensure that you can proceed with a complete understanding of the subject at hand. You need to focus on one thing at a time. The course is scheduled so that you spend time focussing on the current module. You can only access a class or modules from its release date."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to ask doubts? How?",
+                "answer": "Yes, after you have purchased the course, click on the “Resume Course” and go to the dashboard. On the right-hand side of the dashboard, you will find the “Ask Doubts” button or you can use our doubt & discussion platform inbuilt in our courses. Click on that button and ask experts any doubt you have."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How long will I be able to access the course content?",
+                "answer": "You will be able to access the course content till its expiry i.e. 30-September-2021."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ]
+          ],
+          "testimonials": [
+            {
+              "image": "//cdn.testbook.com/images/production/38_kb-2018_Photo%20-%20Sandeep%20Mohapatra%20%282%29%20%281%29_product_studentImage_all_1601558977.jpg",
+              "name": "Sandeep Mohapatra",
+              "review": "All full mock tests, chapter tests, practice quizzes, tatkal quizzes, and all India live tests helped me to crack the exam.  -  RRB JE CBT - 1 Selected",
+              "rating": 4.5
+            },
+            {
+              "image": "//cdn.testbook.com/images/production/IMG_20190531_200345%20-%20Shubham%20Upadhyay%20%281%29%20%281%29_product_studentImage_all_1601559161.jpg",
+              "name": "Shubham Upadhyay",
+              "review": "It helped me a lot. Questions in the test series were relevant up to 95% in the exam paper. I am very thankful to Testbook, thanks a lot for your support. - RRB ALP Technician Final 2018 Selected.",
+              "rating": 5
+            }
+          ]
+        },
+        "postNote": null,
+        "stopEvents": false,
+        "affiliateAttributionPaused": false,
+        "publishCompleted": false,
+        "isOffer": false,
+        "isDemoModuleAvail": true,
+        "isCuratedTopic": false,
+        "lastUpdatedOn": "0001-01-01T00:00:00Z",
+        "summary": {
+          "rating": {},
+          "module": {
+            "count": {
+              "Doubt Class": 26,
+              "Live Class": 165,
+              "Notes": 122,
+              "Practice": 245,
+              "Quiz": 20
+            }
+          }
+        },
+        "segId": "",
+        "target": [
+          {
+            "_id": "5e6189da5f66e94f14a21f52",
+            "title": "RRB NTPC",
+            "isPrimary": true
+          }
+        ],
+        "targetSuperGroup": [
+          {
+            "_id": "5e6189e15f66e94f14a21f93",
+            "title": "Railways Exams",
+            "isPrimary": true
+          }
+        ],
+        "thumbnailInfo": {
+          "title": "",
+          "description": "",
+          "url": ""
+        },
+        "isPremium": true,
+        "doubtTag": {
+          "id": "",
+          "name": "",
+          "type": ""
+        }
+      },
+      {
+        "_id": "5f6a47c656a92af38465dda3",
+        "orgId": "",
+        "course": {
+          "name": "",
+          "id": ""
+        },
+        "specificExams": [
+          {
+            "name": "SBI PO",
+            "id": "56d6f27a995a2d45a8735b49"
+          }
+        ],
+        "courses": [
+          {
+            "name": "Bank PO",
+            "id": "557569e82a39650f6f395648"
+          }
+        ],
+        "title": "",
+        "description": "",
+        "titles": "SBI PO Live Coaching 4.0",
+        "descriptions": null,
+        "shortDesc": null,
+        "coachingName": "",
+        "type": "",
+        "isClassCombo": false,
+        "items": null,
+        "oldCost": 7999,
+        "minCost": 0,
+        "cost": 5999,
+        "costUpfront": false,
+        "freeProdId": "",
+        "weight": 100220,
+        "releaseDate": "2020-09-23T12:30:00Z",
+        "availTill": "2021-10-15T18:29:59Z",
+        "offerStart": "0001-01-01T00:00:00Z",
+        "offerEnd": "0001-01-01T00:00:00Z",
+        "lastFreezedOn": "0001-01-01T00:00:00Z",
+        "createdby": "",
+        "createdOn": "0001-01-01T00:00:00Z",
+        "stage": "",
+        "category": "",
+        "features": null,
+        "extraFeatures": null,
+        "recommendedFor": "",
+        "discountText": "",
+        "isRecommended": false,
+        "quantity": 111,
+        "numPurchased": 108,
+        "minPrice": 0,
+        "isCustom": false,
+        "showSyllabus": false,
+        "slugUrl": "",
+        "freeTestCount": 0,
+        "isHidden": false,
+        "courseLogo": "//cdn.testbook.com/products/2020/September/23/__w-200-400-600__/SBI%20PO%20Live%20Coaching%204.0_Course%20Card%20%281%29.jpg.jpeg",
+        "classProperties": {
+          "subjects": [],
+          "classType": {
+            "type": "Live Class",
+            "classFrom": "2020-10-15T02:30:00Z",
+            "classTill": "2021-02-11T18:29:59Z",
+            "lastEnrollmentDate": "2020-10-20T18:29:59Z"
+          },
+          "instructors": [
+            {
+              "id": "5badce556cbc7f0ca6ec34b6",
+              "name": "Sumit Jaiswal",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f3a88c4f899190d0f343b27",
+              "name": "Rahul Tiwari",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5d4a6158fdb8bb4cf6d681bb",
+              "name": "Sachin Adekar",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f6b1a87b238fb5b88cdc94a",
+              "name": "Chirag Mutreja",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5d5bacdffdb8bb43d98405a6",
+              "name": "Aditya Ashtikar",
+              "shortBio": "",
+              "fullBio": ""
+            }
+          ],
+          "privateDiscussionUrl": "",
+          "languageInfo": "Hindi & English",
+          "languagesInfo": "Hindi & English",
+          "seatsAvailsInfo": "",
+          "showLiveCourseTag": false,
+          "color": "A24C2C",
+          "curriculum": {
+            "id": "5f6f8d080fd9778e365e4177",
+            "name": "Download Course Curriculum",
+            "title": null,
+            "url": null
+          },
+          "slug": {
+            "prefix": "sbi-po",
+            "suffix": "live"
+          }
+        },
+        "classInfo": {
+          "introVideoUrl": "https://www.youtube.com/watch?v=6rdrHfHRFOI",
+          "courseSellingImage": "//cdn.testbook.com/images/production/SBI%20PO%20Live%20Coaching%204.0_Course%20Card%20%281%29_product_courseSelling_all_1600865101.jpg",
+          "facultiesImage": "//cdn.testbook.com/images/production/SBI%20PO%20Live%20Coaching%204.0_472%20X%20200%20%281%29_product_facultiesImage_all_1600865108.png",
+          "subjectWiseSyllabus": {
+            "text": "What Will Be Covered?",
+            "comments": [
+              "<p style=\"text-align: justify;\">&nbsp;</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>- GENERAL &amp; FINANCIAL AWARENESS</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>Financial Awareness</strong>:</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\">Basics of Banking, History of Banking, Structure of Banking, RBI, NABARD &amp; RRBs, Monetary Policy, KYC, NBFC, Banking Ombudsman, Bancassurance, Types of Banking, Types of Securities, Types of Risks, NPAs, Recovery of NPAs &amp; PCAs, Priority Sector Lendings, Banking Abbreviations, Digital Banking, Small Bank &amp; Payment Bank, Financial Inclusion, Money Market, Negotiable Instruments, Types of Cheque, Foreign Trade, Balance of Payment &amp; SEZ, Types of Account, Capital Market, Money &amp; Types, Indian Currency, Cross Selling, Para Banking, Types of Loans, MCLR, Base Rate, ECGC, GIC, Budget &amp; Fiscal Policy, National Income, Basel Norms</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>General Awareness &amp; Current Affairs</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\">Important Appointments &amp; Resignations, Important Awards &amp; Functions, Banking Current Affairs, Sports &amp; Tournaments, Science &amp; Technology, National News, International News, Important People &amp; Places in the News, Summits &amp; Conferences &amp; Meets, Agreements &amp; Pacts &amp; MoUs, Government Schemes, Defence, Committees, Books &amp; Authors, Persons on Visits + Relevant Static Trivia + Current Affairs Capsules &amp; Quizzes&nbsp;</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>- ENGLISH</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>English Foundation:</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\">Articles, Nouns, Pronouns, Adjectives, Adverbs, Verbs, Prepositions, Conjunctions,</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>Grammar:</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\">Phrases &amp; Clauses, Modifiers, Non-Finite Verbs, Tenses, Subject Verb Agreement, Parallelism, Error Spotting (all types), Sentence Correction (all Types)</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>Vocabulary:</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\">Particles with Phrasal Verbs, Vocabulary, Idioms &amp; Phrases, Fillers, Cloze Test, Error Spotting (Vocab based)</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>Passage &amp; Verbal Ability Based:</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\">Reading Comprehension, Para Jumbles, Sentence Synthesis, Starters, Para Completion, Odd One Out</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>- LOGICAL REASONING &amp; COMPUTER APTITUDE</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>Logical Reasoning</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\">Alphabet Test, Coding Decoding, Blood Relations, Order &amp; Ranking, Direction &amp; Distance, Syllogisms, Inequalities, Machine Input Output, Seating Arrangement, Puzzles, Analytical Reasoning (Statement &amp; Assumptions, Statement &amp; Arguments, Course of Action, Cause &amp; Effect, Statement &amp; Inference, Decision Making), Data Sufficiency&nbsp;</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>- QUANTITATIVE APTITUDE &amp; DATA INTERPRETATION</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>Quantitative Aptitude:</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\">Approximation, Ratio &amp; Proportion, Percentages, Averages, Problems on Ages, Partnerships, Profit Loss &amp; Discount, Simple &amp; Compound Interest, Mixtures &amp; Alligation, Time &amp; Work, Pipe &amp; Cistern, Time Speed &amp; Distance, Problems on Train, Boat &amp; Stream, Number Series (Missing &amp; Wrong Type), Quadratic Equation, Comparison of Quantities, Permutation Combination, Probability, Mensuration, Data Sufficiency, Data Interpretation.</p>\n\n<p style=\"text-align: justify;\">&nbsp;</p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\"><strong>Course Schedule:</strong></p>\n\n<p dir=\"ltr\" style=\"text-align: justify;\">Tentative Course Schedule will be available soon.</p>\n\n<div style=\"text-align: justify;\">&nbsp;</div>\n"
+            ]
+          },
+          "classFeature": {
+            "text": "",
+            "features": [
+              {
+                "name": "270+ Live Classes",
+                "type": "Live Class",
+                "description": "Fix your concepts in real-time and ask your queries then and there.",
+                "showInSummary": true,
+                "count": 270,
+                "title": "Live Classes"
+              },
+              {
+                "name": "70+ Subject & Full Tests",
+                "type": "Test",
+                "description": "Test what you have learned with Weekly, Monthly Subject & Full Mock Test.",
+                "showInSummary": true,
+                "count": 70,
+                "title": "Tests"
+              },
+              {
+                "name": "340+ Practice Sets & Quizzes",
+                "type": "Quiz",
+                "description": "Practice Sets & Timed quizzes to help learn, revise & devise a strategy",
+                "showInSummary": true,
+                "count": 340,
+                "title": "Quiz"
+              },
+              {
+                "name": "80+ PDF Capsules",
+                "type": "Notes",
+                "description": "Important Capsules & Select Notes in PDF format.",
+                "showInSummary": true,
+                "count": 80,
+                "title": "PDF Notes"
+              },
+              {
+                "name": "8000+ Questions",
+                "type": "Questions",
+                "description": "Practice Sets & Timed quizzes to help learn, revise & devise a strategy",
+                "showInSummary": true,
+                "count": 8000,
+                "title": "Practise Qs"
+              }
+            ]
+          },
+          "whyTakeThisCourse": {
+            "text": "Why Take This Course?",
+            "comments": [
+              "Best Chance to Crack SBI PO",
+              "Personal guidance by Testbook Coach & Faculty.",
+              "Free Live Sessions to test and try the product before buying.",
+              "Only Trusted Name for SBI PO",
+              "Highest Rated Faculty",
+              "Most Trusted Course Material",
+              "Accessible on Mobile Phone"
+            ]
+          },
+          "preRequisites": {
+            "text": "What You Need For This Course?",
+            "comments": [
+              "Access to Smartphone / Computer",
+              "Good Internet Speed (Wifi/3G/4G)",
+              "Good Quality Earphones / Speakers",
+              "Basic Understanding of English & Hindi",
+              "Dedication & Confidence to crack any exam"
+            ]
+          },
+          "faqs": [
+            [
+              {
+                "language": "English",
+                "question": "Why should I go for Testbook Select?",
+                "answer": "Testbook Select helps you “get complete coaching at home with live classes, personal coach, 360° learning and doubt clearing sessions”. The Live Classes will aid you in grasping important concepts with tips & tricks by top faculties and will also offer you an opportunity to interact with the faculty during the live classes. Apart from this, every student opting for Testbook Select will get focused attention by a coach who will personally analyze your progress & prepare a plan for your success."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Why should I enroll for the \"SBI PO Live Coaching 4.0\"?",
+                "answer": "“SBI PO Live Coaching 4.0” is a premium course that gives you the best shot to crack SBI PO 2020. This course will help you prepare in a focused way and provide you with the most expected questions."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How to Test and Try \"SBI PO Live Coaching 4.0\"?",
+                "answer": "Go to https://testbook.com/u/sbilc4 and click on “Start Free Demo” to access the Free Live Sessions along with Study Notes and Quizzes. If you are a new user, you will have to sign up using your Name, valid Email ID, new password for this account (you can choose anything more than 6 characters) and your valid mobile number."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How to purchase the \"SBI PO Live Coaching 4.0\"?",
+                "answer": "Go to https://testbook.com/u/sbilc4 and click on “Enroll in Course”. If you are a new user, you will have to sign up using your Name, valid Email ID, new password for this account (you can choose anything more than 6 characters) and your valid mobile number. You will now need to select a payment method - Card (Debit or Credit), Netbanking, Mobile Wallet or UPI. Once you make the payment, you will get a confirmation and your course will be added to your account."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Who is a Testbook Coach?",
+                "answer": "A Testbook Coach is an experienced exam-qualified coach who will give you personal guidance throughout your preparation journey. Coach will have regular phone calls with you to analyze your performance/preparation, motivation and for guidance as well. \n\nIn other words, Testbook Coach is your personal mentor to increase your chances of selection. Coach will also make a customized study plan for your exam preparations with daily & weekly goals for you to achieve and conduct master strategy sessions to enhance your performance."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the benefit of interactive live classes?",
+                "answer": "As the name suggests, these classes will have the option of interaction between candidates and the faculty. Interactive live classes will have: \n\nLive Chat\nYou can participate in discussions and also get your doubts cleared instantly during the lectures itself.\n\nScreenshots\nSometimes, you do not have time to take down notes well, interactive live classes give an option to save live class notes with a single click.\n\nImportant concepts & Expected questions\nLearn important concepts with tips & tricks and apply them to solve expected and previous year questions to boost your performance for your upcoming exams."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is 360° Learning?",
+                "answer": "A 360 degree approach is required to make sure that you are clear with the concepts, cover the syllabus, have referred previous year papers and so on. So in a nutshell 360° Learning is “in-depth understanding of every topic.”  Interactive Doubt Sessions  You can get your doubts cleared from the faculties with the topic-wise Live Doubt Sessions.  Practice Questions Revise each day’s topic in the form of questions & answers with the practice questions given after each session.  PDF Study Material Receive PDF notes for reading and revising, which you can even save and refer to it later whenever you are revising that particular topic."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How can I access Testbook Select?",
+                "answer": "To access Testbook Select, all you need is a laptop/mobile phone and Internet connection"
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the validity period of Testbook Select?",
+                "answer": "The validity for Testbook Select is the same as for the course which you have opted for."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Testbook Select caters one course or multiple courses?",
+                "answer": "It will be for individual courses only but it offers you access to the full test series. You can buy individual courses in Testbook Select and learn with the best curriculum designed to crack that particular exam."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Where can I access this Course?",
+                "answer": "Once you have made the purchase, you simply need to ensure that you are logged in. If you see a “Log In” in the top right corner, it means you need to sign in with your registered account details. Once you are logged in, click on “Online Coaching” in the side menu. Under the tab ‘My Classes’ you will see “SBI PO Live Coaching 4.0”. Click on “Go To Course” or “Resume Course”. You can check the top dashboard on the Course Page daily to get access to your upcoming and current classes and modules."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I get tests? Do I have to buy test series separately?",
+                "answer": "This course comes as a complete package so you will have access to our test series in this course. Make sure to attempt tests in addition to this course so you get actual exam experience and you can check your learning also."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "When will classes start?",
+                "answer": "The course starts on 8th October, 2020. You will have the course material being released as per schedule/ timetable."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Are these live classes or video classes?",
+                "answer": "This course consists of live classes only."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How many activities are scheduled in one day?",
+                "answer": "One or more live classes will be scheduled daily. Additionally, you will have daily practice sets, quizzes,weekly subject tests, monthly tests,full mock tests  and study notes as per schedule."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I don’t complete all the scheduled activities?",
+                "answer": "We encourage you to follow the course schedule and complete all the activities on time. But in case you are unable to do so due to some reason, you will have access to all the course content until the course expires."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I miss a live class?",
+                "answer": "We encourage you to follow the course schedule and attend all the live classes. But in case you are not able to do so for any reason, you will be able to access recordings of these classes on our platform easily for you to watch at your convenience."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can the classes be downloaded?",
+                "answer": "Yes. You will be able to download the classes on Testbook App."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to access all the videos & live classes at once?",
+                "answer": "All course materials will be released according to a course schedule. You need to focus on completing the material available to you."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can I get a module that has not been released yet?",
+                "answer": "The course has been structured by our experts to ensure that you can proceed with complete understanding of the subject at hand. You need to focus on one thing at a time. The course is scheduled so that you spend time focussing on the current module. You can only access a class or modules from its release date."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to ask doubts? How?",
+                "answer": "Yes, after you have purchased the course, click on “Resume Course” and go to the dashboard. On the right-hand side of the dashboard you will find the “Ask Doubts” button or you can use our doubt & discussion platform inbuilt in our courses. Click on that button and ask experts any doubt you have."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How long will I be able to access the course content?",
+                "answer": "You will be able to access the course content till its expiry i.e. 8th October,2021."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ]
+          ],
+          "testimonials": [
+            {
+              "image": "//cdn.testbook.com/images/production/Rajat_product_studentImage_all_1600801935.webp",
+              "name": "Rajat",
+              "review": "I'm following Testbook courses for preparation and Testbook tests for practice. If I clear any bank exam or interview it's because of Testbook. Special thanks to Sachin Sir, Mahesh Sir, and Sumit Sir.  - IBPS PO Mains, 2019 Selected",
+              "rating": 4.5
+            },
+            {
+              "image": "//cdn.testbook.com/images/production/Prassun%20Goel_product_studentImage_all_1600802011.jpg",
+              "name": "Prasun Goel",
+              "review": "Being weak in GA made me worry until I saw Live Classes of Mahesh sir which has helped me in improving my knowledge. Also, my attempt in reasoning in prelims was low. So I joined 2 courses and which helped me a lot. I was able to solve various questions, more than my expectations. - IBPS PO Mains, 2019 Selected",
+              "rating": 5
+            }
+          ]
+        },
+        "postNote": null,
+        "stopEvents": false,
+        "affiliateAttributionPaused": false,
+        "publishCompleted": false,
+        "isOffer": false,
+        "isDemoModuleAvail": true,
+        "isCuratedTopic": false,
+        "lastUpdatedOn": "0001-01-01T00:00:00Z",
+        "summary": {
+          "rating": {},
+          "module": {
+            "count": {
+              "Doubt Class": 18,
+              "Live Class": 255,
+              "Notes": 79,
+              "Practice": 242
+            }
+          }
+        },
+        "segId": "",
+        "target": [
+          {
+            "_id": "5e6189da5f66e94f14a21e2e",
+            "title": "SBI PO",
+            "isPrimary": true
+          }
+        ],
+        "targetSuperGroup": [
+          {
+            "_id": "5e6189e15f66e94f14a21f8c",
+            "title": "Banking Exams",
+            "isPrimary": true
+          }
+        ],
+        "thumbnailInfo": {
+          "title": "",
+          "description": "",
+          "url": ""
+        },
+        "isPremium": true,
+        "doubtTag": {
+          "id": "",
+          "name": "",
+          "type": ""
+        }
+      },
+      {
+        "_id": "5f5f101b8d935542261b621d",
+        "orgId": "",
+        "course": {
+          "name": "",
+          "id": ""
+        },
+        "specificExams": [
+          {
+            "name": "RRC Group D",
+            "id": "5a7b0c49d036300f91fc4884"
+          }
+        ],
+        "courses": [
+          {
+            "name": "Railways",
+            "id": "569c9730995a2d097081cf8a"
+          }
+        ],
+        "title": "",
+        "description": "",
+        "titles": "RRB Group D Live Coaching",
+        "descriptions": null,
+        "shortDesc": null,
+        "coachingName": "",
+        "type": "",
+        "isClassCombo": false,
+        "items": null,
+        "oldCost": 7999,
+        "minCost": 0,
+        "cost": 299,
+        "costUpfront": false,
+        "freeProdId": "",
+        "weight": 100180,
+        "releaseDate": "2020-09-14T10:30:00Z",
+        "availTill": "2020-12-31T18:29:59Z",
+        "offerStart": "0001-01-01T00:00:00Z",
+        "offerEnd": "0001-01-01T00:00:00Z",
+        "lastFreezedOn": "0001-01-01T00:00:00Z",
+        "createdby": "",
+        "createdOn": "0001-01-01T00:00:00Z",
+        "stage": "",
+        "category": "",
+        "features": null,
+        "extraFeatures": null,
+        "recommendedFor": "",
+        "discountText": "",
+        "isRecommended": false,
+        "quantity": -1,
+        "numPurchased": 463,
+        "minPrice": 0,
+        "isCustom": false,
+        "showSyllabus": false,
+        "slugUrl": "",
+        "freeTestCount": 0,
+        "isHidden": false,
+        "courseLogo": "//cdn.testbook.com/products/2020/September/14/__w-200-400-600__/RRB-Group-D-Live-Coaching_Course-Card.jpg.jpeg",
+        "classProperties": {
+          "subjects": [],
+          "classType": {
+            "type": "Live Class",
+            "classFrom": "2020-09-22T18:30:00Z",
+            "classTill": "2020-11-30T18:29:59Z",
+            "lastEnrollmentDate": "2020-10-15T18:29:59Z"
+          },
+          "instructors": [
+            {
+              "id": "5d4aa595fdb8bb4cf6d682ec",
+              "name": "Pankaj Chaubey",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5e4e5f36f60d5d2ac569d060",
+              "name": "Parvind Agarwal",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f3a88c4f899190d0f343b27",
+              "name": "Rahul Tiwari",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f59b12f1a085c6f609536bf",
+              "name": "Abhimanyu",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f59b1c8074b4978ddd4e8b2",
+              "name": "Rishabh Pandey",
+              "shortBio": "",
+              "fullBio": ""
+            }
+          ],
+          "privateDiscussionUrl": "",
+          "languageInfo": "Hindi & English",
+          "materialLangInfo": "Hindi & English",
+          "languagesInfo": "Hindi & English",
+          "seatsAvailsInfo": "",
+          "showLiveCourseTag": true,
+          "color": "9C754D",
+          "curriculum": {
+            "id": "5f63264c79d1a94cb3ec92a7",
+            "name": "",
+            "title": null,
+            "url": null
+          },
+          "contentDuration": 250,
+          "slug": {
+            "prefix": "rrb-group-d",
+            "suffix": "live"
+          },
+          "isCoachNotAvailable": true
+        },
+        "classInfo": {
+          "courseSellingImage": "//cdn.testbook.com/images/production/RRB-Group-D-Live-Coaching_Course-Card_product_courseSelling_all_1600079468.jpg",
+          "facultiesImage": "//cdn.testbook.com/images/production/RRB-Group-D-Live-Coaching_472-X-200-faculty_product_facultiesImage_all_1600071796.png",
+          "subjectWiseSyllabus": {
+            "text": "What Will Be Covered?",
+            "comments": [
+              "<ul>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\" role=\"presentation\"><strong>Quantitative Aptitude:</strong></p>\n\t</li>\n</ul>\n\n<p dir=\"ltr\">Number System, Decimals, Fractions, LCM, HCF, Ratio and Proportions, Percentage, Mensuration, Time and Work, Time and Distance, Simple and Compound Interest, Profit and Loss, Elementary Algebra, Geometry and Trigonometry, Elementary Statistics, etc.</p>\n\n<ul>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\" role=\"presentation\"><strong>General Intelligence &amp; Reasoning:</strong></p>\n\t</li>\n</ul>\n\n<p dir=\"ltr\">Analogies, Completion of Number and Alphabetical Series, Coding and Decoding, Mathematical Operations, Similarities and Differences, Relationships, Analytical Reasoning, Syllogism, Jumbling, Venn Diagrams, Puzzle, Data Sufficiency, Statement- Conclusion, Statement- Courses of Action, Decision Making, Maps, Interpretation of Graphs, etc.</p>\n\n<ul>\n\t<li dir=\"ltr\">\n\t<p dir=\"ltr\" role=\"presentation\"><strong>General Awareness:</strong></p>\n\t</li>\n</ul>\n\n<p dir=\"ltr\">Current Events of National and International Importance, Games and Sports, Art and Culture of India, Indian Literature, Monuments and Places of India, General Science and Life Science (up to 10th CBSE), History of India and Freedom Struggle, Physical, Social and Economic Geography of India and World, Indian Polity and Governance- constitution and political system, General Scientific and Technological Developments including Space and Nuclear Program of India, UN and Other important World Organizations, Environmental Issues Concerning India and World at Large, Basics of Computers and Computer Applications, Common Abbreviations, Transport Systems in India, Indian Economy, Famous Personalities of India and World, Flagship Government Programs, Flora and Fauna of India, Important Government and Public Sector Organizations of India, etc</p>\n\n<div>&nbsp;</div>\n"
+            ]
+          },
+          "classFeature": {
+            "text": "What will you get?",
+            "features": [
+              {
+                "name": "170+ LIVE Classes",
+                "type": "Live Class",
+                "description": "Fix your concepts in real-time and ask your queries then and there.",
+                "showInSummary": true,
+                "count": 170,
+                "title": "Live Classes"
+              },
+              {
+                "name": "22+ Doubt Classes",
+                "type": "Doubt Class",
+                "description": "Get your doubts resolved bi-weekly by your subject faculty.",
+                "showInSummary": true,
+                "count": 22,
+                "title": "Doubt Class"
+              },
+              {
+                "name": "70+ Tests",
+                "type": "Test",
+                "description": "Test what you have learned with Weekly, Monthly Subject & Full Mock Test.",
+                "showInSummary": true,
+                "count": 70,
+                "title": "Tests"
+              },
+              {
+                "name": "75+ PDF Capsules",
+                "type": "Notes",
+                "description": "Important Capsules & Select Notes in PDF format.",
+                "showInSummary": true,
+                "count": 75,
+                "title": "PDF Notes"
+              },
+              {
+                "name": "7000+ Practice Questions",
+                "type": "Questions",
+                "description": "Practice Sets,Timed quizzes & Tests to help learn, revise & devise a strategy",
+                "showInSummary": true,
+                "count": 7000,
+                "title": "Practise Qs"
+              }
+            ]
+          },
+          "whyTakeThisCourse": {
+            "text": "",
+            "comments": []
+          },
+          "preRequisites": {
+            "text": "",
+            "comments": []
+          },
+          "faqs": [
+            [
+              {
+                "language": "English",
+                "question": "Why should I go for Testbook Select?",
+                "answer": "Testbook Select helps you “get complete coaching at home with live classes, personal coach, 360° learning and doubt clearing sessions”. The Live Classes will aid you in learning important concepts with tips & tricks by top faculties and will also offer you an opportunity to interact with the faculty during the live classes."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Why should I enroll for the \" RRB Group D Live Coaching  \"?",
+                "answer": "“RRB  Group D Live Coaching ” is a premium course that gives you the best shot to crack RRB  Group D. This course will help you learn in a focused way and provide you with the most expected questions."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How to purchase the \" RRB  Group D Live Coaching  \"?",
+                "answer": "Go to https://testbook.com/u/grpdlive and click on “Enroll in Course”. If you are a new user, you will have to sign up using your Name, valid Email ID, new password for this account (you can choose anything more than 6 characters) and your valid mobile number. You will now need to select a payment method - Card (Debit or Credit), Netbanking, Mobile Wallet or UPI. Once you make the payment, you will get a confirmation and your course will be added to your account."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the benefit of interactive live classes?",
+                "answer": "As the name suggests, these classes will have the option of interaction between candidates and the faculty. Interactive live classes will have: \n\nLive Chat\nYou can participate in discussions and also get your doubts cleared instantly during the lectures itself.\n\nScreenshots\nSometimes, you do not have time to take down notes well, interactive live classes give an option to save live class notes with a single click.\n\nImportant concepts & Expected questions\nLearn important concepts with tips & tricks and apply them to solve expected and previous year questions to boost your performance for your upcoming exams."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is 360° Learning?",
+                "answer": "A 360 degree approach is required to make sure that you are clear with the concepts, cover the syllabus, have referred previous year papers and so on. So in a nutshell 360° Learning is “in-depth understanding of every topic.”\n\nInteractive Doubt Sessions \nYou can get your doubts cleared from the faculties with the topic-wise Live Doubt Sessions.\n\nPractice Questions\nRevise each day’s topic in the form of questions & answers with the practice questions given after each session.\n\nPDF Study Material\nReceive PDF notes for reading and revising, which you can even save and refer to it later whenever you are revising that particular topic."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How can I access Testbook Select?",
+                "answer": "To access Testbook Select, all you need is a laptop/mobile phone and Internet connection"
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the validity period of Testbook Select?",
+                "answer": "The validity for Testbook Select is the same as for the course which you have opted for."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Testbook Select caters one course or multiple courses?",
+                "answer": "It will be for individual courses only but it offers you access to the full test series. You can buy individual courses in Testbook Select and learn with the best curriculum designed to crack that particular exam."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Where can I access this Course?",
+                "answer": "Once you have made the purchase, you simply need to ensure that you are logged in. If you see a “Log In” in the top right corner, it means you need to sign in with your registered account details. Once you are logged in, click on “Online Coaching” on the side menu. Under ‘My Classes' you will see “ RRB  Group D Live Coaching ”. Click on “Go To Course” or “Resume Course”. You can check the top dashboard on the Course Page daily to get access to your upcoming and current classes and modules."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I get tests? Do I have to buy test series separately?",
+                "answer": "This course comes as a complete package so you will have access to our test series in this course for the starting month. Make sure to attempt tests in addition to this course so you get actual exam experience and you can check your learning also."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "When will classes start?",
+                "answer": "The course starts on 23 September 2020. You will have the course material being released as per schedule/ timetable."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Are these live classes or video classes?",
+                "answer": "This course consists of live classes only."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How many activities are scheduled in one day?",
+                "answer": "One or more live classes will be scheduled daily. Additionally, you will have daily practice sets, quizzes, weekly subject tests, monthly tests, full mock tests, and study notes as per schedule."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I don’t complete all the scheduled activities?",
+                "answer": "We encourage you to follow the course schedule and complete all the activities on time. But in case you are unable to do so due to some reason, you will have access to all the course content until the course expires."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I miss a live class?",
+                "answer": "We encourage you to follow the course schedule and attend all the live classes. But in case you are not able to do so for any reason, you will be able to access recordings of these classes on our platform easily for you to watch at your convenience."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can the classes be downloaded?",
+                "answer": "Yes. You will be able to download the classes on Testbook App."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to access all the videos & live classes at once?",
+                "answer": "All course materials will be released according to a course schedule. You need to focus on completing the material available to you."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can I get a module that has not been released yet?",
+                "answer": "The course has been structured by our experts to ensure that you can proceed with a complete understanding of the subject at hand. You need to focus on one thing at a time. The course is scheduled so that you spend time focussing on the current module. You can only access a class or modules from its release date."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to ask doubts? How?",
+                "answer": "Yes, after you have purchased the course, click on the “Resume Course” and go to the dashboard. On the right-hand side of the dashboard, you will find the “Ask Doubts” button or you can use our doubt & discussion platform inbuilt in our courses. Click on that button and ask experts any doubt you have."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How long will I be able to access the course content?",
+                "answer": "You will be able to access the course content till its expiry i.e. 31-December-2020."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ]
+          ],
+          "testimonials": [
+            {
+              "image": "//cdn.testbook.com/images/production/Untitled%20-%20ASHUTOSH%20KUMAR%20%281%29_product_studentImage_all_1600068696.png",
+              "name": "Ashutosh Kumar",
+              "review": "Today qualified the written test of RRB Group D, I would like to thanks the Testbook team for their great effort in providing the perfect study package for my exam. I always attempted the live test and also my purchased test. The question level was up to mark and this gives me enough confidence in the final exam. - Qualified, RRB Group D CBT 2018",
+              "rating": 4.5
+            },
+            {
+              "image": "//cdn.testbook.com/images/production/Scan69%20-%20ajay%20kumar%20%281%29_product_studentImage_all_1600068589.jpg",
+              "name": "Ajay Kumar",
+              "review": "\" टेस्टबुक के तो भक्त हैं हम \nग्रुप डी में काफी मदद मिली सारे टेस्ट को अटेम्प्ट किया लाइव क्लास भी किया\nकाफी अच्छा प्लेटफॉर्म है और भी बाकी सारे एक्जाम एलपी सीबीटी 2 में 81 मार्क्स हैं\nइसमें टेस्ट बुक का काफी योगदान है\nआगे भी टेस्ट बुक पर बना रहूंगा और लोगों को testbook  यूज करने का सलाह भी  दूंगा - Qualified, RRB Group D CBT 2018",
+              "rating": 5
+            }
+          ]
+        },
+        "postNote": null,
+        "stopEvents": false,
+        "affiliateAttributionPaused": false,
+        "publishCompleted": false,
+        "isOffer": false,
+        "isDemoModuleAvail": true,
+        "isCuratedTopic": false,
+        "lastUpdatedOn": "0001-01-01T00:00:00Z",
+        "summary": {
+          "rating": {},
+          "module": {
+            "count": {
+              "Doubt Class": 26,
+              "Live Class": 177,
+              "Notes": 132,
+              "Practice": 254,
+              "Quiz": 54,
+              "Test": 51
+            }
+          }
+        },
+        "segId": "",
+        "target": [
+          {
+            "_id": "5e6189da5f66e94f14a21f54",
+            "title": "RRC Group D",
+            "isPrimary": true
+          }
+        ],
+        "targetSuperGroup": [
+          {
+            "_id": "5e6189e15f66e94f14a21f93",
+            "title": "Railways Exams",
+            "isPrimary": true
+          }
+        ],
+        "thumbnailInfo": {
+          "title": "",
+          "description": "",
+          "url": ""
+        },
+        "isPremium": true,
+        "doubtTag": {
+          "id": "",
+          "name": "",
+          "type": ""
+        }
+      },
+      {
+        "_id": "5f4e811c0318142b8a258643",
+        "orgId": "",
+        "course": {
+          "name": "",
+          "id": ""
+        },
+        "specificExams": [
+          {
+            "name": "IBPS Clerk",
+            "id": "56d6f25d995a2d45a8735a37"
+          }
+        ],
+        "courses": [
+          {
+            "name": "Bank Clerk",
+            "id": "568a751185111b4193101100"
+          }
+        ],
+        "title": "",
+        "description": "",
+        "titles": "IBPS Clerk Live Coaching",
+        "descriptions": null,
+        "shortDesc": null,
+        "coachingName": "",
+        "type": "",
+        "isClassCombo": false,
+        "items": null,
+        "oldCost": 6999,
+        "minCost": 0,
+        "cost": 4999,
+        "costUpfront": true,
+        "freeProdId": "",
+        "isFree": true,
+        "weight": 100150,
+        "releaseDate": "2020-09-02T10:30:00Z",
+        "availTill": "2021-09-17T18:29:59Z",
+        "offerStart": "0001-01-01T00:00:00Z",
+        "offerEnd": "0001-01-01T00:00:00Z",
+        "lastFreezedOn": "0001-01-01T00:00:00Z",
+        "createdby": "",
+        "createdOn": "0001-01-01T00:00:00Z",
+        "stage": "",
+        "category": "",
+        "features": null,
+        "extraFeatures": null,
+        "recommendedFor": "",
+        "discountText": "",
+        "isRecommended": false,
+        "quantity": 223,
+        "numPurchased": 217,
+        "minPrice": 0,
+        "isCustom": false,
+        "showSyllabus": false,
+        "slugUrl": "",
+        "freeTestCount": 0,
+        "isHidden": false,
+        "courseLogo": "//cdn.testbook.com/products/2020/September/2/__w-200-400-600__/IBPS%20Clerk%20Live%20Coaching_Course%20Card%20%281%29.jpg",
+        "classProperties": {
+          "subjects": [],
+          "classType": {
+            "type": "Live Class",
+            "classFrom": "2020-09-17T02:30:00Z",
+            "classTill": "2020-12-31T18:29:59Z",
+            "lastEnrollmentDate": "2020-10-15T18:29:59Z"
+          },
+          "instructors": [
+            {
+              "id": "5badce556cbc7f0ca6ec34b6",
+              "name": "Sumit Jaiswal",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5d4a6158fdb8bb4cf6d681bb",
+              "name": "Sachin Adekar",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5d4a603afdb8bb4cf6d681b9",
+              "name": "Anjali Pratap",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5e5f68caf60d5d1f77314cf6",
+              "name": "Dr. Pushpak Pandav",
+              "shortBio": "",
+              "fullBio": ""
+            },
+            {
+              "id": "5f3a88c4f899190d0f343b27",
+              "name": "Rahul Tiwari",
+              "shortBio": "",
+              "fullBio": ""
+            }
+          ],
+          "privateDiscussionUrl": "",
+          "languageInfo": "Hindi & English",
+          "languagesInfo": "Hindi & English",
+          "seatsAvailsInfo": "",
+          "showLiveCourseTag": true,
+          "color": "515A66",
+          "curriculum": {
+            "id": "5f52662993bcdb434a4d9130",
+            "name": "",
+            "title": null,
+            "url": null
+          },
+          "slug": {
+            "prefix": "ibps-clerk",
+            "suffix": "live"
+          }
+        },
+        "classInfo": {
+          "introVideoUrl": "https://www.youtube.com/watch?v=FrVg3pZcaZI",
+          "courseSellingImage": "//cdn.testbook.com/images/production/IBPS%20Clerk%20Live%20Coaching_Course%20Card%20%281%29_product_courseSelling_all_1599029126.jpg",
+          "facultiesImage": "//cdn.testbook.com/images/production/IBPS%20Clerk%20Live%20Coaching_472%20X%20200%20%281%29_product_facultiesImage_all_1599029137.png",
+          "subjectWiseSyllabus": {
+            "text": "What Will Be Covered?",
+            "comments": [
+              "<p dir=\"ltr\"><strong>- GENERAL &amp; FINANCIAL AWARENESS</strong></p>\n\n<p dir=\"ltr\">Financial Awareness:</p>\n\n<p dir=\"ltr\">Basics of Banking, History of Banking, Structure of Banking, RBI, NABARD &amp; RRBs, Monetary Policy, KYC, NBFC, Banking Ombudsman, Bancassurance, Types of Banking, Types of Securities, Types of Risks, NPAs, Recovery of NPAs &amp; PCAs, Priority Sector Lendings, Banking Abbreviations, Digital Banking, Small Bank &amp; Payment Bank, Financial Inclusion, Money Market, Negotiable Instruments, Types of Cheque, Foreign Trade, Balance of Payment &amp; SEZ, Types of Account, Capital Market, Money &amp; Types, Indian Currency, Cross Selling, Para Banking, Types of Loans, MCLR, Base Rate, ECGC, GIC, Budget &amp; Fiscal Policy, National Income, Basel Norms</p>\n\n<p dir=\"ltr\">General Awareness &amp; Current Affairs</p>\n\n<p dir=\"ltr\">Important Appointments &amp; Resignations, Important Awards &amp; Functions, Banking Current Affairs, Sports &amp; Tournaments, Science &amp; Technology, National News, International News, Important People &amp; Places in the News, Summits &amp; Conferences &amp; Meets, Agreements &amp; Pacts &amp; MoUs, Government Schemes, Defence, Committees, Books &amp; Authors, Persons on Visits + Relevant Static Trivia + Current Affairs Capsules &amp; Quizzes&nbsp;</p>\n\n<p dir=\"ltr\">&nbsp;</p>\n\n<p dir=\"ltr\"><strong>- ENGLISH</strong></p>\n\n<p dir=\"ltr\">English Foundation:</p>\n\n<p dir=\"ltr\">Articles, Nouns, Pronouns, Adjectives, Adverbs, Verbs, Prepositions, Conjunctions,</p>\n\n<p dir=\"ltr\">Grammar:</p>\n\n<p dir=\"ltr\">Phrases &amp; Clauses, Modifiers, Non-Finite Verbs, Tenses, Subject Verb Agreement, Parallelism, Error Spotting (all types), Sentence Correction (all Types)</p>\n\n<p dir=\"ltr\">Vocabulary:</p>\n\n<p dir=\"ltr\">Particles with Phrasal Verbs, Vocabulary, Idioms &amp; Phrases, Fillers, Cloze Test, Error Spotting (Vocab based)</p>\n\n<p dir=\"ltr\">Passage &amp; Verbal Ability Based:</p>\n\n<p dir=\"ltr\">Reading Comprehension, Para Jumbles, Sentence Synthesis, Starters, Para Completion, Odd One Out</p>\n\n<p dir=\"ltr\">&nbsp;</p>\n\n<p dir=\"ltr\"><strong>- LOGICAL REASONING &amp; COMPUTER APTITUDE</strong></p>\n\n<p dir=\"ltr\">Logical Reasoning</p>\n\n<p dir=\"ltr\">Alphabet Test, Coding Decoding, Blood Relations, Order &amp; Ranking, Direction &amp; Distance, Syllogisms, Inequalities, Machine Input Output, Seating Arrangement, Puzzles, Analytical Reasoning (Statement &amp; Assumptions, Statement &amp; Arguments, Course of Action, Cause &amp; Effect, Statement &amp; Inference, Decision Making), Data Sufficiency&nbsp;</p>\n\n<p dir=\"ltr\">&nbsp;</p>\n\n<p dir=\"ltr\"><strong>- QUANTITATIVE APTITUDE &amp; DATA INTERPRETATION</strong></p>\n\n<p dir=\"ltr\">Quantitative Aptitude:</p>\n\n<p dir=\"ltr\">Approximation, Ratio &amp; Proportion, Percentages, Averages, Problems on Ages, Partnerships, Profit Loss &amp; Discount, Simple &amp; Compound Interest, Mixtures &amp; Alligation, Time &amp; Work, Pipe &amp; Cistern, Time Speed &amp; Distance, Problems on Train, Boat &amp; Stream, Number Series (Missing &amp; Wrong Type), Quadratic Equation, Comparison of Quantities, Permutation Combination, Probability, Mensuration, Data Sufficiency, Data Interpretation</p>\n\n<div>&nbsp;</div>\n"
+            ]
+          },
+          "classFeature": {
+            "text": "What will you get?",
+            "features": [
+              {
+                "name": "250+ Live Classes",
+                "type": "Live Class",
+                "description": "Fix your concepts in real-time and ask your queries then and there.",
+                "showInSummary": true,
+                "count": 250,
+                "title": "Live Classes"
+              },
+              {
+                "name": "80+ Subject & Full Tests",
+                "type": "Test",
+                "description": "Test what you have learned with Weekly, Monthly Subject & Full Mock Test.",
+                "showInSummary": true,
+                "count": 80,
+                "title": "Tests"
+              },
+              {
+                "name": "280+ Practice Sets & Quizzes",
+                "type": "Quiz",
+                "description": "Practice Sets & Timed quizzes to help learn, revise & devise a strategy",
+                "showInSummary": true,
+                "count": 280,
+                "title": "Quiz"
+              },
+              {
+                "name": "70+ PDF Capsules",
+                "type": "Notes",
+                "description": "Important Capsules & Select Notes in PDF format.",
+                "showInSummary": true,
+                "count": 70,
+                "title": "PDF Notes"
+              },
+              {
+                "name": "8000+ Practice Que",
+                "type": "Questions",
+                "description": "Practice Questions to Boost Your Preparation",
+                "showInSummary": true,
+                "count": 8000,
+                "title": "Practise Qs"
+              },
+              {
+                "name": "",
+                "type": "Free Testbook Pass",
+                "description": "",
+                "showInSummary": false,
+                "count": 0,
+                "title": "Free Testbook Pass"
+              }
+            ]
+          },
+          "whyTakeThisCourse": {
+            "text": "Why Take This Course?",
+            "comments": [
+              "Best Chance to Crack IBPS Clerk",
+              "Best Chance to Crack IBPS Clerk",
+              "Personal guidance by Testbook Coach & Faculty.",
+              "Free Live Sessions to test and try the product before buying.",
+              "Only Trusted Name for IBPS Clerk",
+              "Highest Rated Faculty",
+              "Most Trusted Course Material",
+              "Accessible on Mobile Phone"
+            ]
+          },
+          "preRequisites": {
+            "text": "What You Need For This Course?",
+            "comments": [
+              "Access to Smartphone / Computer",
+              "Good Internet Speed (Wifi/3G/4G)",
+              "Good Quality Earphones / Speakers",
+              "Basic Understanding of English & Hindi",
+              "Dedication & Confidence to crack any exam"
+            ]
+          },
+          "faqs": [
+            [
+              {
+                "language": "English",
+                "question": "Why should I go for Testbook Select?",
+                "answer": "Testbook Select helps you “get complete coaching at home with live classes, personal coach, 360° learning and doubt clearing sessions”. The Live Classes will aid you in grasping important concepts with tips & tricks by top faculties and will also offer you an opportunity to interact with the faculty during the live classes. \nApart from this, every student opting for Testbook Select will get focused attention by a coach who will personally analyze your progress & prepare a plan for your success."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Why should I enroll for the \"IBPS Clerk Live Coaching \"?",
+                "answer": "“IBPS Clerk Live Coaching ” is a premium course that gives you the best shot to crack IBPS Clerk 2020. This course will help you prepare in a focused way and provide you with the most expected questions."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How to Test and Try \"IBPS Clerk Live Coaching \"?",
+                "answer": "Go to _______ and click on “Start Free Demo” to access the Free Live Sessions along with Study Notes and Quizzes. If you are a new user, you will have to sign up using your Name, valid Email ID, new password for this account (you can choose anything more than 6 characters) and your valid mobile number."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How to purchase the \"IBPS Clerk Live Coaching \"?",
+                "answer": "Go to https://testbook.com/u/ibpsclc and click on “Enroll in Course”. If you are a new user, you will have to sign up using your Name, valid Email ID, new password for this account (you can choose anything more than 6 characters) and your valid mobile number. You will now need to select a payment method - Card (Debit or Credit), Netbanking, Mobile Wallet or UPI. Once you make the payment, you will get a confirmation and your course will be added to your account."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Who is a Testbook Coach?",
+                "answer": "A Testbook Coach is an experienced exam-qualified coach who will give you personal guidance throughout your preparation journey. Coach will have regular phone calls with you to analyze your performance/preparation, motivation and for guidance as well. \n\nIn other words, Testbook Coach is your personal mentor to increase your chances of selection. Coach will also make a customized study plan for your exam preparations with daily & weekly goals for you to achieve and conduct master strategy sessions to enhance your performance."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the benefit of interactive live classes?",
+                "answer": "As the name suggests, these classes will have the option of interaction between candidates and the faculty. Interactive live classes will have: \n\nLive Chat\nYou can participate in discussions and also get your doubts cleared instantly during the lectures itself.\n\nScreenshots\nSometimes, you do not have time to take down notes well, interactive live classes give an option to save live class notes with a single click.\n\nImportant concepts & Expected questions\nLearn important concepts with tips & tricks and apply them to solve expected and previous year questions to boost your performance for your upcoming exams."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is 360° Learning?",
+                "answer": "A 360 degree approach is required to make sure that you are clear with the concepts, cover the syllabus, have referred previous year papers and so on. So in a nutshell 360° Learning is “in-depth understanding of every topic.”\nInteractive Doubt Sessions \nYou can get your doubts cleared from the faculties with the topic-wise Live Doubt Sessions.\n\nPractice Questions\nRevise each day’s topic in the form of questions & answers with the practice questions given after each session.\n\nPDF Study Material\nReceive PDF notes for reading and revising, which you can even save and refer to it later whenever you are revising that particular topic."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How can I access Testbook Select?",
+                "answer": "To access Testbook Select, all you need is a laptop/mobile phone and Internet connection"
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What is the validity period of Testbook Select?",
+                "answer": "The validity for Testbook Select is the same as for the course which you have opted for."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Testbook Select caters one course or multiple courses?",
+                "answer": "It will be for individual courses only but it offers you access to the full test series. You can buy individual courses in Testbook Select and learn with the best curriculum designed to crack that particular exam."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Where can I access this Course?",
+                "answer": "Once you have made the purchase, you simply need to ensure that you are logged in. If you see a “Log In” in the top right corner, it means you need to sign in with your registered account details. Once you are logged in, click on “Online Coaching” in the side menu. Under the tab ‘My Classes’ you will see “IBPS Clerk Live Coaching”. Click on “Go To Course” or “Resume Course”. You can check the top dashboard on the Course Page daily to get access to your upcoming and current classes and modules."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I get tests? Do I have to buy test series separately?",
+                "answer": "This course comes as a complete package so you will have access to our test series in this course. Make sure to attempt tests in addition to this course so you get actual exam experience and you can check your learning also."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "When will classes start?",
+                "answer": "The course starts on 17th September, 2020.. You will have the course material being released as per schedule/ timetable."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Are these live classes or video classes?",
+                "answer": "This course consists of live classes only."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How many activities are scheduled in one day?",
+                "answer": "One or more live classes will be scheduled daily. Additionally, you will have daily practice sets, quizzes,weekly subject tests, monthly tests,full mock tests  and study notes as per schedule."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I don’t complete all the scheduled activities?",
+                "answer": "We encourage you to follow the course schedule and complete all the activities on time. But in case you are unable to do so due to some reason, you will have access to all the course content until the course expires."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "What happens if I miss a live class?",
+                "answer": "We encourage you to follow the course schedule and attend all the live classes. But in case you are not able to do so for any reason, you will be able to access recordings of these classes on our platform easily for you to watch at your convenience."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can the classes be downloaded?",
+                "answer": "Yes. You will be able to download the classes on Testbook App."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to access all the videos & live classes at once?",
+                "answer": "All course materials will be released according to a course schedule. You need to focus on completing the material available to you."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can I get a module that has not been released yet?",
+                "answer": "The course has been structured by our experts to ensure that you can proceed with complete understanding of the subject at hand. You need to focus on one thing at a time. The course is scheduled so that you spend time focussing on the current module. You can only access a class or modules from its release date."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Will I be able to ask doubts? How?",
+                "answer": "Yes, after you have purchased the course, click on “Resume Course” and go to the dashboard. On the right-hand side of the dashboard you will find the “Ask Doubts” button or you can use our doubt & discussion platform inbuilt in our courses. Click on that button and ask experts any doubt you have."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "How long will I be able to access the course content?",
+                "answer": "You will be able to access the course content till its expiry i.e. 17th-September-2021."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ],
+            [
+              {
+                "language": "English",
+                "question": "Can I get to access the Course free for some days?",
+                "answer": "Though we conduct free demo classes, the complete Course is not accessible for free. However, if you are not satisfied by the Course by any chance then you can revert back within 7 days where you will be provided with 100% refund."
+              },
+              {
+                "language": "Hindi",
+                "question": "",
+                "answer": ""
+              }
+            ]
+          ],
+          "testimonials": []
+        },
+        "postNote": null,
+        "stopEvents": false,
+        "affiliateAttributionPaused": false,
+        "publishCompleted": false,
+        "isOffer": false,
+        "isDemoModuleAvail": true,
+        "isCuratedTopic": false,
+        "lastUpdatedOn": "0001-01-01T00:00:00Z",
+        "summary": {
+          "rating": {},
+          "module": {
+            "count": {
+              "Doubt Class": 25,
+              "Live Class": 237,
+              "Notes": 81,
+              "Practice": 226,
+              "Quiz": 47,
+              "Test": 42
+            }
+          }
+        },
+        "segId": "",
+        "target": [
+          {
+            "_id": "5e6189da5f66e94f14a21e0a",
+            "title": "IBPS Clerk",
+            "isPrimary": true
+          }
+        ],
+        "targetSuperGroup": [
+          {
+            "_id": "5e6189e15f66e94f14a21f8c",
+            "title": "Banking Exams",
+            "isPrimary": true
+          }
+        ],
+        "thumbnailInfo": {
+          "title": "",
+          "description": "",
+          "url": ""
+        },
+        "isPremium": true,
+        "doubtTag": {
+          "id": "",
+          "name": "",
+          "type": ""
+        }
+      }
+    ]
+  },
+  "curTime": "2020-10-15T07:12:55.2Z"
+}

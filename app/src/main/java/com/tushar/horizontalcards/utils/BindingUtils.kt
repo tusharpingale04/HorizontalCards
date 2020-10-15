@@ -19,7 +19,6 @@ import com.tushar.horizontalcards.R
 
 @BindingAdapter("bindDrawable")
 fun setImageDrawable(view: ImageView, color: String) {
-
     val layerDrawable = AppController.getInstance().getDrawable(R.drawable.bg_gradient) as LayerDrawable
     val gradientDrawable = layerDrawable.findDrawableByLayerId(R.id.main_bg) as GradientDrawable
     gradientDrawable.shape = GradientDrawable.RECTANGLE
@@ -44,10 +43,10 @@ fun setImageDrawable(view: ImageView, color: String) {
     ld.setLayerWidth(0, width)
     ld.setLayerHeight(0, height)
 
-    ld.setLayerInset(1, (-width / 5.4).dp2px, 0, (width / 21.6).dp2px, 0)
-    ld.setLayerInset(2, (width / 7.2).dp2px, 50.dp2px, (-width / 21.6).dp2px, (-height / 68.3).dp2px)
+    ld.setLayerInset(1, (-width / 5).dp2px, 0, (width / 9).dp2px, 0)
+    ld.setLayerInset(2, (width / 6.5).dp2px, (height / 4).dp2px, (-width /20).dp2px, (-height / 68).dp2px)
 
-    view.setImageDrawable(ld)
+    view.load(ld)
 }
 
 @ColorInt
@@ -61,7 +60,7 @@ fun darkenColor(@ColorInt color: Int, percent: Float): Int {
 @BindingAdapter("loadImage")
 fun loadImage(imageView: ImageView,url: String?) {
     url?.let {
-        imageView.load("https://${it.substring(2,it.length)}") {
+        imageView.load("https:${it}") {
             error(R.drawable.ic_broken_image)
             scale(Scale.FILL)
         }

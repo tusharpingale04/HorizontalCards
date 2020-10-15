@@ -11,6 +11,9 @@ import android.util.DisplayMetrics
 import android.view.View
 import kotlin.math.roundToInt
 
+/** 
+ * Extension to check network availability 
+ */
 fun Context.isInternetAvailable(): Boolean {
     var result = false
     val connectivityManager =
@@ -39,10 +42,6 @@ fun Context.isInternetAvailable(): Boolean {
     }
     return result
 }
-
-fun Int.toPx(): Int = (this * Resources.getSystem().displayMetrics.density).toInt()
-
-fun Int.toDp(): Int = (this / Resources.getSystem().displayMetrics.density).toInt()
 
 private val displayMetrics: DisplayMetrics by lazy { Resources.getSystem().displayMetrics }
 

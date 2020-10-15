@@ -7,13 +7,20 @@ import kotlinx.coroutines.flow.Flow
 import retrofit2.Response
 import javax.inject.Inject
 
+/** 
+ * Repository for Courses 
+ * @param apiService implementation for Course Api Service 
+ */
 @ExperimentalCoroutinesApi
 class CoursesRepository @Inject constructor(
     val apiService: CoursesApiService
 ) {
 
-    fun getCourses(isPremium: Boolean, includeIndividual: Boolean): Flow<Resource<CoursesResponseModel>> {
-        return object : NetworkResource<CoursesResponseModel>(){
+    fun getCourses(
+        isPremium: Boolean,
+        includeIndividual: Boolean
+    ): Flow<Resource<CoursesResponseModel>> {
+        return object : NetworkResource<CoursesResponseModel>() {
             override suspend fun fetchFromRemote(): Response<CoursesResponseModel> {
                 return apiService.getPopularCourses(isPremium, includeIndividual)
             }

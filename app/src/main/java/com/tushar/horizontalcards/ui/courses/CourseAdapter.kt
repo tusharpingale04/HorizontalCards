@@ -8,7 +8,10 @@ import com.tushar.horizontalcards.base.BaseAdapter
 import com.tushar.horizontalcards.data.remote.ClassModel
 import com.tushar.horizontalcards.databinding.RowCourseBinding
 
-class CourseAdapter() : BaseAdapter<ClassModel>(DIFF_CALLBACK) {
+/** 
+ * Adapter Implementation for Courses inherits [BaseAdapter] 
+ */
+class CourseAdapter : BaseAdapter<ClassModel>(DIFF_CALLBACK) {
 
     override fun createBinding(parent: ViewGroup, viewType: Int): ViewDataBinding {
         val mBinding = RowCourseBinding.inflate(
@@ -31,7 +34,9 @@ class CourseAdapter() : BaseAdapter<ClassModel>(DIFF_CALLBACK) {
     companion object {
 
         private val DIFF_CALLBACK = object : DiffUtil.ItemCallback<ClassModel>() {
-            override fun areItemsTheSame(oldItem: ClassModel, newItem: ClassModel): Boolean = false
+            override fun areItemsTheSame(oldItem: ClassModel, newItem: ClassModel): Boolean =
+                oldItem.title == newItem.title
+
 
             override fun areContentsTheSame(oldItem: ClassModel, newItem: ClassModel): Boolean =
                 oldItem == newItem

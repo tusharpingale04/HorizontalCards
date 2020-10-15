@@ -13,6 +13,9 @@ import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import javax.inject.Inject
 
+/** 
+ * Activity to display courses list inherits [BaseActivity] 
+ */
 @ExperimentalCoroutinesApi
 @AndroidEntryPoint
 class CoursesActivity : BaseActivity<CoursesViewModel, ActivityCoursesBinding>() {
@@ -32,29 +35,47 @@ class CoursesActivity : BaseActivity<CoursesViewModel, ActivityCoursesBinding>()
         attachAdapter()
     }
 
+    override val mViewModel: CoursesViewModel
+        get() = ViewModelProvider(this).get(CoursesViewModel::class.java)
+
+    override fun getViewBinding() = ActivityCoursesBinding.inflate(layoutInflater)
+
+    /** 
+     * Method to attach adapter to recycler view 
+     */
     private fun attachAdapter() {
         if(mViewBinding.rvCourses.adapter == null){
             mViewBinding.rvCourses.adapter = courseAdapter
         }
     }
 
+    /** 
+     * Method to setup listeners 
+     */
     private fun setUpListeners() {
         mViewBinding.retryBtn.setOnClickListener {
             getCourses()
         }
     }
 
+    /** 
+     * Method to get Courses List from server 
+     */
     private fun getCourses(){
         if(this.isInternetAvailable()){
             mViewModel.isApiError.value = false
             mViewModel.getCourses(isPremium = true, includeIndividual = true)
         }else{
-            Toast.makeText(this, getString(R.string.error_no_connection), Toast.LENGTH_SHORT).show()
+            mViewModel.isApiError.value = true
+            mViewModel.loadingText.value = getString(R.string.error_no_connection)
         }
     }
 
+    /** 
+     * Method to subscribe to [androidx.lifecycle.observe] Observers 
+     */
     private fun subscribeObservers() {
-        mViewModel.coursesLiveData.observe(this, { resource ->
+        mViewModel.coursesLiveData.observe(this) { resource ->
             when (resource.status) {
                 Resource.Status.LOADING -> {
                     mViewModel.loadingText.value = getString(R.string.loading_please_wait)
@@ -74,11 +95,6 @@ class CoursesActivity : BaseActivity<CoursesViewModel, ActivityCoursesBinding>()
 
                 }
             }
-        })
+        }
     }
-
-    override val mViewModel: CoursesViewModel
-        get() = ViewModelProvider(this).get(CoursesViewModel::class.java)
-
-    override fun getViewBinding() = ActivityCoursesBinding.inflate(layoutInflater)
 }

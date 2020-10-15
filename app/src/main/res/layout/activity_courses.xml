@@ -36,13 +36,14 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/space_large"
             tools:context=".ui.courses.CoursesActivity"
             app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:id="@+id/loadingScreen"
-                android:layout_width="0dp"
-                android:layout_height="0dp"
+                android:layout_width="@dimen/space_zero"
+                android:layout_height="@dimen/space_zero"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHeight_percent="0.35"
                 app:layout_constraintStart_toStartOf="parent"
@@ -79,7 +80,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginBottom="16dp"
+                    android:layout_marginBottom="@dimen/space_large"
                     android:gravity="center"
                     android:text="@{vm.loadingText}"
                     android:textColor="@color/colorGrey"
@@ -93,9 +94,7 @@
                 android:id="@+id/rvCourses"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:clipToPadding="false"
                 android:orientation="horizontal"
-                android:padding="10dp"
                 app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
                 app:layout_constraintTop_toTopOf="parent" />
 

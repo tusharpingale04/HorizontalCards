@@ -10,6 +10,10 @@ import retrofit2.http.Query
  */
 interface CoursesApiService {
 
+    /** 
+     * @param isPremium true to fetch premium courses, false otherwise 
+     * @param includeIndividual true to fetch individual courses, false otherwise 
+     */
     @GET("popular-courses")
     suspend fun getPopularCourses(
         @Query(JsonKeys.KEY_IS_PREMIUM) isPremium: Boolean,

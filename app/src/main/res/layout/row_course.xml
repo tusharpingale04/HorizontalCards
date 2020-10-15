@@ -20,9 +20,8 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="250dp"
-            android:background="#000000"
-            >
+            android:layout_height="@dimen/card_header_height"
+            android:background="@color/black">
 
             <androidx.constraintlayout.widget.Guideline
                 android:id="@+id/guidelineCenter"
@@ -36,28 +35,28 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
-                app:layout_constraintGuide_begin="16dp" />
+                app:layout_constraintGuide_begin="@dimen/space_large" />
 
             <androidx.constraintlayout.widget.Guideline
                 android:id="@+id/guidelineEnd"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
-                app:layout_constraintGuide_end="16dp" />
+                app:layout_constraintGuide_end="@dimen/space_large" />
 
             <androidx.constraintlayout.widget.Guideline
                 android:id="@+id/guidelineTop"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                app:layout_constraintGuide_begin="16dp" />
+                app:layout_constraintGuide_begin="@dimen/space_large" />
 
             <androidx.constraintlayout.widget.Guideline
                 android:id="@+id/guidelineBottom"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                app:layout_constraintGuide_end="16dp" />
+                app:layout_constraintGuide_end="@dimen/space_large" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -73,7 +72,7 @@
                 android:id="@+id/ivLogo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="4dp"
+                android:layout_marginStart="@dimen/space_small"
                 android:src="@drawable/ic_tb_select_title"
                 app:layout_constraintHeight_percent="0.04"
                 android:scaleType="fitStart"
@@ -84,18 +83,66 @@
 
             <TextView
                 android:id="@+id/tvTitle"
-                android:layout_width="0dp"
+                android:layout_width="@dimen/space_zero"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="4dp"
-                android:layout_marginTop="4dp"
+                android:layout_marginStart="@dimen/space_small"
+                android:layout_marginTop="@dimen/space_small"
                 android:text="@{vm.item.title}"
                 android:textColor="@color/white"
-                android:textSize="16sp"
+                android:textSize="@dimen/text_size_large"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="@id/guidelineEnd"
                 app:layout_constraintStart_toStartOf="@id/guidelineStart"
                 app:layout_constraintTop_toBottomOf="@+id/ivLogo"
                 tools:text="RRB Group D Railway Exam" />
+
+            <TextView
+                android:id="@+id/tvLiveClasses"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_baseline_ondemand_video_24"
+                app:layout_constraintBottom_toTopOf="@+id/tvQuestions"
+                app:layout_constraintEnd_toEndOf="@id/guidelineEnd"
+                app:layout_constraintStart_toStartOf="@id/guidelineStart"
+                android:text="@{vm.item.classInfo.classFeature.features.get(0).name}"
+                tools:text="250+ Live Class"
+                android:drawablePadding="8dp"
+                android:textSize="@dimen/text_size_small"
+                android:layout_marginBottom="@dimen/space_medium"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:id="@+id/tvQuestions"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_baseline_bookmark_border_24"
+                app:layout_constraintBottom_toTopOf="@+id/tvNotes"
+                app:layout_constraintEnd_toEndOf="@id/guidelineEnd"
+                app:layout_constraintStart_toStartOf="@id/guidelineStart"
+                android:text="@{vm.item.classInfo.classFeature.features.get(1).name}"
+                tools:text="5000+ Questions"
+                android:drawablePadding="8dp"
+                android:textSize="@dimen/text_size_small"
+                android:layout_marginBottom="@dimen/space_medium"
+                android:textColor="@color/white"
+                />
+
+            <TextView
+                android:id="@+id/tvNotes"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_baseline_menu_book_24"
+                app:layout_constraintBottom_toBottomOf="@id/guidelineBottom"
+                app:layout_constraintEnd_toEndOf="@id/guidelineEnd"
+                app:layout_constraintStart_toStartOf="@id/guidelineStart"
+                android:text="@{vm.item.classInfo.classFeature.features.get(2).name}"
+                tools:text="70+ Notes"
+                android:drawablePadding="8dp"
+                android:textSize="@dimen/text_size_small"
+                android:layout_marginBottom="@dimen/space_medium"
+                android:textColor="@color/white"
+                />
 
             <ImageView
                 android:layout_width="match_parent"

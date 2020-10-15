@@ -1,5 +1,8 @@
 package com.tushar.horizontalcards.network
 
+/** 
+ * Class containing keys for network layer 
+ */
 object JsonKeys {
     const val KEY_IS_PREMIUM = "isPremium"
     const val KEY_INCLUDE_INDIVIDUAL = "includeIndividual"

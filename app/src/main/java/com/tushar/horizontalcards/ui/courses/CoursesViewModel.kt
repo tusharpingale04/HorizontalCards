@@ -12,6 +12,9 @@ import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
 
+/** 
+ * CourseRowViewModel View model for [CoursesActivity] inherits [ViewModel] 
+ */
 @ExperimentalCoroutinesApi
 class CoursesViewModel @ViewModelInject constructor(
     private val repository: CoursesRepository
@@ -25,6 +28,10 @@ class CoursesViewModel @ViewModelInject constructor(
     val coursesLiveData: LiveData<Resource<CoursesResponseModel>>
         get() = _coursesLiveData
 
+    /** 
+     * @param isPremium query params passed as part of API 
+     * @param includeIndividual query params passed as part of API 
+     */
     fun getCourses(isPremium: Boolean, includeIndividual: Boolean){
         viewModelScope.launch {
             repository.getCourses(isPremium, includeIndividual).collect {

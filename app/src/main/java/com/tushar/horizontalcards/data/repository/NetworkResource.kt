@@ -46,6 +46,9 @@ abstract class NetworkResource<T> {
         }
     }
 
+    /** 
+     * @param throwable class to check instance of when exception occurred 
+     */
     private fun getErrorMessage(throwable: Throwable): String {
         return when {
             throwable is SocketTimeoutException -> {

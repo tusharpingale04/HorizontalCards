@@ -5,6 +5,9 @@ import com.google.gson.annotations.SerializedName
 import com.tushar.horizontalcards.network.JsonKeys
 import kotlinx.android.parcel.Parcelize
 
+/** 
+ * Response wrapper data class for Courses model 
+ */
 @Parcelize
 data class CoursesResponseModel (
     @SerializedName(JsonKeys.KEY_DATA) val data: DataModel? = null,
